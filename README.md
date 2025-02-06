@@ -1,4 +1,3 @@
 # Air Compressor simulator
 
-[product_video: 'https://youtu.be/BVVEWkvAkAw'
-](https://youtu.be/BVVEWkvAkAw)
+[![YouTube Video](https://img.youtube.com/vi/BVVEWkvAkAw/0.jpg)](https://youtu.be/BVVEWkvAkAw)
